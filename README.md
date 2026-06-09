@@ -32,6 +32,6 @@ Selected works created for clients and businesses.
 - Figma
 
 ## Contact
-- Portfolio: [Your Portfolio Link]
-- Instagram: [Your Instagram]
-- Facebook: [Your Facebook]
+- Portfolio: [https://isabelo-baniqued.my.canva.site/nicole-majarreis-portfolio-va/#about-me]
+- Instagram: [https://www.instagram.com/viinyx/]
+- Facebook: [https://www.facebook.com/viiofarts]
