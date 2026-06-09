@@ -1,2 +1,37 @@
 # art-and-design-portfolio
-A curated portfolio of graphic design, digital illustrations, branding materials, social media creatives, and other visual design projects created for academic, personal, and client work.
+
+Welcome to my Art & Design Portfolio.
+
+This repository showcases a collection of graphic design, digital art, branding materials, social media creatives, and other visual design projects developed for academic, personal, and client work.
+
+## Categories
+
+### Branding & Logos
+Logo designs and brand identity projects.
+
+### Social Media Designs
+Posts, stories, advertisements, and promotional graphics.
+
+### Marketing Materials
+Flyers, brochures, posters, and marketing assets.
+
+### Digital Illustrations
+Creative artwork and digital illustrations.
+
+### Academic Projects
+Design projects completed during my studies.
+
+### Client Projects
+Selected works created for clients and businesses.
+
+## Tools Used
+- Canva
+- Adobe Illustrator
+- Adobe Photoshop
+- CapCut
+- Figma
+
+## Contact
+- Portfolio: [Your Portfolio Link]
+- Instagram: [Your Instagram]
+- Facebook: [Your Facebook]
