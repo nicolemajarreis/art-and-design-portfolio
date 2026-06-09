@@ -1,35 +1,22 @@
-# art-and-design-portfolio
+<p align="center"> 
+  <img src="assets/banner.png" width="100%" alt="Art and Design Portfolio Banner"> 
+</p> 
 
-Welcome to my Art & Design Portfolio.
+<h1 align="center">Art & Design Portfolio</h1> 
+<p align="center">   
+  A curated collection of my visual design, digital art, branding, social media creatives, academic projects, and selected client work. 
 
-This repository showcases a collection of graphic design, digital art, branding materials, social media creatives, and other visual design projects developed for academic, personal, and client work.
+</p> 
 
-## Categories
+--- 
+## Portfolio Gallery
 
-### Branding & Logos
-Logo designs and brand identity projects.
-
-### Social Media Designs
-Posts, stories, advertisements, and promotional graphics.
-
-### Marketing Materials
-Flyers, brochures, posters, and marketing assets.
-
-### Digital Illustrations
-Creative artwork and digital illustrations.
-
-### Academic Projects
-Design projects completed during my studies.
-
-### Client Projects
-Selected works created for clients and businesses.
-
-## Tools Used
-- Canva
-- Adobe Illustrator
-- Adobe Photoshop
-- CapCut
-- Figma
+### Digital Illustrations Creative artwork and digital illustrations. 
+<p align="center"> 
+  <img src="digital-illustrations/sample-1.png" width="30%"> 
+  <img src="digital-illustrations/sample-2.png" width="30%"> 
+  <img src="digital-illustrations/sample-3.png" width="30%"> 
+</p>
 
 ## Contact
 - Portfolio: [https://isabelo-baniqued.my.canva.site/nicole-majarreis-portfolio-va/#about-me]
